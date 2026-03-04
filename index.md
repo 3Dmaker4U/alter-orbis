@@ -2,6 +2,6 @@
 
 This is the homepage.  
 
-## Bondarul Ionica
+## Bondarul Ionică
 
 ![Bondarul Ionica](images/Bondarul%20Ionica.png)  
